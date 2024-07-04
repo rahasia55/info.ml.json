@@ -1,5 +1,12 @@
-{
-  "key1": "value1",
-  "key2": "value2",
-  "key3": "value3"
-}
+[
+  {
+    "judul": "value4",
+    "tanggal": "value5",
+    "info": "value6"
+  },
+  {
+    "judul": "value1",
+    "tanggal": "value2",
+    "info": "value3"
+  }
+]
