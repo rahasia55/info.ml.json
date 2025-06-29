@@ -1,17 +1,17 @@
 [
   {
     "her": "Aamon",
-    "roll": null,
+    "roll": "Assassin",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725"
   },
   {
     "her": "Kalea",
-    "roll": null,
+    "roll": "Tank",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846"
   },
   {
     "her": "Zetian",
-    "roll": null,
+    "roll": "Mage",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250402014540"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "her": "Bruno",
-    "roll": null,
+    "roll": "Marksman",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Bruno.png/revision/latest?cb=20180820103530"
   },
   {
@@ -141,12 +141,12 @@
   },
   {
     "her": "Chip",
-    "roll": null,
+    "roll": "Tank",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340"
   },
   {
     "her": "Cici",
-    "roll": null,
+    "roll": "Fighter",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20240120070411"
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "her": "Ixia",
-    "roll": null,
+    "roll": "Marksman",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751"
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "her": "Lukas",
-    "roll": null,
+    "roll": "Fighter",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20240705060738"
   },
   {
@@ -481,12 +481,12 @@
   },
   {
     "her": "Nolan",
-    "roll": null,
+    "roll": "Assassin",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20231224180931"
   },
   {
     "her": "Novaria",
-    "roll": null,
+    "roll": "Mage",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429"
   },
   {
@@ -551,7 +551,7 @@
   },
   {
     "her": "Suyou",
-    "roll": null,
+    "roll": "Assassin",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20240621033337"
   },
   {
@@ -636,7 +636,7 @@
   },
   {
     "her": "Zhuxin",
-    "roll": null,
+    "roll": "Mage",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20240621033609"
   },
   {
